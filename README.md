@@ -5,9 +5,9 @@ no TRIF de 2024.
 
 Participantes do projeto:
 
-Arthur Hirury Hwang Bo;
-Gabriel Henrique Castilho;
-Matheus Cardoso Medeiros.
+* Arthur Hirury Hwang Bo; 
+* Gabriel Henrique Castilho; 
+* Matheus Cardoso Medeiros. 
 
 ## Lista de componentes utilizados:
 
