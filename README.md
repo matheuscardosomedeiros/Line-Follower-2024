@@ -19,3 +19,6 @@ Participantes do projeto:
 * 1x Suporte para baterias de íon-lítio
 * 2x Baterias íon-lítion 3.7V
 
+## Funcionamento e Projeto:
+
+<img src="seguidor.jpeg">
