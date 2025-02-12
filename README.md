@@ -12,8 +12,9 @@ Participantes do projeto:
 ## Lista de componentes utilizados:
 
 * 1x ESP32
-* Shield para ESP32
+* 1x Shield para ESP32
 * 1x Array de 8 sensores IR QRE-8D
+* 2x Sensores IR KY-033
 * 1x Driver L298N Mini
 * 2x Micro Motor DC 1000 RPM 6V
 * 2x Rodas StickyMAX 22mm
