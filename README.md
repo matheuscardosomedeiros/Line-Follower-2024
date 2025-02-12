@@ -12,12 +12,13 @@ Participantes do projeto:
 ## Lista de componentes utilizados:
 
 * 1x ESP32
+* Shield para ESP32
 * 1x Array de 8 sensores IR QRE-8D
 * 1x Driver L298N Mini
 * 2x Micro Motor DC 1000 RPM 6V
 * 2x Rodas StickyMAX 22mm
-* 1x Suporte para baterias de íon-lítio
-* 2x Baterias íon-lítion 3.7V
+* 1x Suporte para baterias de íon-lítio 18650
+* 2x Baterias íon-lítio 3.7V
 
 ## Funcionamento e Projeto:
 
